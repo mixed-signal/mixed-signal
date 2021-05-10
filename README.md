@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @haubergeon
 - 👀 I’m interested in embedded systems, machine learning and a little bit of web dev here and there.
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Machine Learning
 - 📫 Reach me @gsingh6_be19@thapar.edu
 
