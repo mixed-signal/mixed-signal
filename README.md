@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @haubergeon
 - 👀 I’m interested in embedded systems, machine learning and a little bit of web dev here and there.
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Machine Learning
+- 🌱 I’m currently working on Brain-Computer interfaces.
+- 💞️ I’m looking to collaborate on Analog/Digital System Design, signal processing, other core areas of ECE.
 - 📫 Reach me @gsingh6_be19@thapar.edu
 
 
