@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @haubergeon
+- 👋 Hi, I’m @mixed-signal
 - 👀 I’m interested in embedded systems, machine learning, analog and digital system design and a little bit of web dev here and there.
-- 🌱 I’m currently working on Brain-Computer interfaces.
+- 🌱 I’m currently working as a analog mixed signal engineer at Texas Instruments.
 - 💞️ I’m looking to collaborate on Analog/Digital System Design, signal processing, other core areas of ECE.
 - 📫 Reach me @gsingh6_be19@thapar.edu
